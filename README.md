@@ -1,16 +1,20 @@
-### Hi there 👋
-
-<!--
-**Art3m1y/Art3m1y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there 👋 Welcome to my github! 😄
+---
+###### I'm Artem Kuryshkin, 18 years old. I have been learning Java and Spring framework for 7 months.
+###### ⚙️ Programming languages and technologies, that i know:
+- Java
+- Spring
+- Hibernate
+- PostgreSQL
+- MongoDB
+- OAuth2
+- Keycloak
+- JUnit
+- Maven
+- Gradle
+- Git
+- Github
+- Javascript + jQuery (on base level)
+- Golang (on base level)
+- Python Django (on base level)
+---
