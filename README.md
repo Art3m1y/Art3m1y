@@ -1,5 +1,5 @@
 # Hi there 👋 Welcome to my github! 😄
-### I'm Artem Kuryshkin, 18 years old. I have been learning Java and Spring framework for 9 months.
+### I'm Artem Kuryshkin, 18 years old. I have been learning Java and Spring framework for 12 months.
 ### ⚙️ Programming languages and technologies, that i know:
 - Java
 - Spring
