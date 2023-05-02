@@ -6,6 +6,7 @@
 - Hibernate
 - PostgreSQL
 - MongoDB
+- Redis
 - Liquibase
 - OAuth2
 - Keycloak
